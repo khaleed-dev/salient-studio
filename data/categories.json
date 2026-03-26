@@ -1,0 +1,87 @@
+[
+    {
+        "slug": "hero_section",
+        "name": "Hero Section",
+        "count": 66
+    },
+    {
+        "slug": "general",
+        "name": "General",
+        "count": 209
+    },
+    {
+        "slug": "services",
+        "name": "Services",
+        "count": 50
+    },
+    {
+        "slug": "team",
+        "name": "Team",
+        "count": 8
+    },
+    {
+        "slug": "counters",
+        "name": "Counters",
+        "count": 11
+    },
+    {
+        "slug": "testimonials",
+        "name": "Testimonials",
+        "count": 31
+    },
+    {
+        "slug": "pricing",
+        "name": "Pricing",
+        "count": 12
+    },
+    {
+        "slug": "cta",
+        "name": "Call To Action",
+        "count": 35
+    },
+    {
+        "slug": "portfolio",
+        "name": "Project",
+        "count": 39
+    },
+    {
+        "slug": "about",
+        "name": "About",
+        "count": 76
+    },
+    {
+        "slug": "blog",
+        "name": "Blog",
+        "count": 44
+    },
+    {
+        "slug": "lottie",
+        "name": "Lottie",
+        "count": 9
+    },
+    {
+        "slug": "shop",
+        "name": "Shop",
+        "count": 15
+    },
+    {
+        "slug": "icons",
+        "name": "Icons",
+        "count": 27
+    },
+    {
+        "slug": "map",
+        "name": "Map",
+        "count": 7
+    },
+    {
+        "slug": "",
+        "name": "",
+        "count": 2
+    },
+    {
+        "slug": "gallery",
+        "name": "Gallery",
+        "count": 4
+    }
+]
